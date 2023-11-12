@@ -9,7 +9,6 @@ const Third = () => {
 		        <span>refill</span>
 		        <span>rethink</span>
 		        <span>reuse</span>
-		        <span>@chaniru.lk</span>
 	        </div>
         </div>
         

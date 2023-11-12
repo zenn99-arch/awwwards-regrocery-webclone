@@ -6,7 +6,6 @@ const Seven = () => {
   return <div className="seven">
     <div className="socail-text">
         <p className="social">Follow us on Instagram</p>
-        <a href="#" className="social-btn">@chaniru.lk</a>
     </div>
     <div class="row-last">
         <div class="column-last" >
@@ -39,10 +38,10 @@ const Seven = () => {
            To say no to plastic altogether. Thanks to you, <br />
            we've diverted over 250,000 items of <br />
            packaging from landfill since opening on  <br />
-           Eath Day 2020. - <span  className="re">@chaniru.lk</span>
+           Eath Day 2020. 
            </p>
         </div>
-        <a href="https://www.instagram.com/chaniru.lk/" className="credit">Crafted by -@chaniru.lk</a>
+       
     </div>
     </div>
 
